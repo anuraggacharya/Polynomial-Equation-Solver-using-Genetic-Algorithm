@@ -1,1 +1,2 @@
 # Polynomial Equation Solver using Genetic Algorithm
+Genetic algorithm implementation in python that give solution of a given equation. The equation may be linear, quadritic and cubic (Not tested).It uses the concept of evolution in which it successively generates a pool of possible solution and eliminates those are not fit for survival.
